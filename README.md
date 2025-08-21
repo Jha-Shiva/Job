@@ -6,6 +6,7 @@ Welcome to the Job Portal project! This project is a job portal application buil
 
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
