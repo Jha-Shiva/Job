@@ -21,11 +21,34 @@ This Job Portal application allows users to search and apply for jobs, as well a
 - Job listing and search functionality
 - Job application process
 - Employer dashboard for managing job postings
-- Responsive design for mobile and desktop
+
+## Tech Stack
+
+### Frontend
+
+- React.js: A JavaScript library for building user interfaces.
+- React Router: For declarative routing in the React application.
+- Axios: A promise-based HTTP client for making requests to the backend.
+- Tailwind: For styling the application.
+- Redux: To manage state.
+
+### Backend
+
+- Node.js: A JavaScript runtime environment.
+- Express.js: A web application framework for Node.js.
+- MongoDB: A NoSQL database for storing project and user data.
+- Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js.
+- dotenv: For managing environment variables.
 
 ## Installation
 
 To run this project locally, follow these steps:
+
+**Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/Job.git
+   cd Job
+   ```
 
 ### Backend Setup
 
